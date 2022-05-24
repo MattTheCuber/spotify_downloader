@@ -7,8 +7,10 @@
 
 ## Setup Environment variables
 Replace `CLIENT_ID` and `CLIENT_SECRET` with your credentials from 
-    PS> $Env:RSPOTIFY_CLIENT_ID="CLIENT_ID";
-    PS> $Env:RSPOTIFY_CLIENT_SECRET="CLIENT_SECRET";
+```
+PS> $Env:RSPOTIFY_CLIENT_ID="CLIENT_ID";
+PS> $Env:RSPOTIFY_CLIENT_SECRET="CLIENT_SECRET";
+```
 
 ## Command Usage
 Link and path are required, client id and client secret can be skipped if you setup environment variables
