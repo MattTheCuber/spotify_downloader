@@ -996,7 +996,7 @@ dependencies = [
 
 [[package]]
 name = "spotify_downloader"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "rspotify",
  "thiserror",
