@@ -2,7 +2,7 @@
 name = "spotify_downloader"
 description = "Downloads Spotify playlists"
 version = "0.1.0"
-edition = "2022"
+edition = "2021"
 license = "MIT"
 homepage = "https://github.com/MattTheCuber/spotify_downloader"
 repository = "https://github.com/MattTheCuber/spotify_downloader"
