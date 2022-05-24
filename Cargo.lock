@@ -999,6 +999,7 @@ name = "spotify_downloader"
 version = "0.1.0"
 dependencies = [
  "rspotify",
+ "thiserror",
  "tokio",
  "ytd-rs",
 ]

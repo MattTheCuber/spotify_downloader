@@ -7,4 +7,4 @@ edition = "2021"
 tokio = { version = "1.2.0", features = ["full"] }
 rspotify = "0.11.4"
 ytd-rs = { version = "0.1.6", features = ["yt-dlp"] }
-#youtube_dl = "0.7.0"
+thiserror = "1.0.30"
